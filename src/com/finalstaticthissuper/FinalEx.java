@@ -31,6 +31,7 @@ public  void run(String name){
 
 	public static void main(String[] args) {
 		run();
+		System.out.println();
 		
 		FinalEx object1=new FinalEx("Mahesh",100);
 		System.out.println(object1.toString());
